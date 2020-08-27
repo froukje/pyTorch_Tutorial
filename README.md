@@ -2,7 +2,9 @@
 
 Code following the pyTorch tutorial from Sentdex https://www.youtube.com/watch?v=1gQR24B3ISE
 
+https://pythonprogramming.net/introduction-deep-learning-neural-network-pytorch/
+
 * MNIST dataset
-* Classifying cats and dogs
+* CNN: Classifying cats and dogs
 
 work in progress ...

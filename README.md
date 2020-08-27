@@ -4,3 +4,5 @@ Code following the pyTorch tutorial from Sentdex https://www.youtube.com/watch?v
 
 * MNIST dataset
 * Classifying cats and dogs
+
+work in progress ...

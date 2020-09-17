@@ -4,8 +4,7 @@ Code following different pyTorch tutorials
 
 * Tutorial from Sentdex https://www.youtube.com/watch?v=1gQR24B3ISE
 
-https://pythonprogramming.net/introduction-deep-learning-neural-network-pytorch/
-
+    * Text based tutorial: https://pythonprogramming.net/introduction-deep-learning-neural-network-pytorch/
     * MNIST dataset
     * CNN: classifying cats and dogs
 
